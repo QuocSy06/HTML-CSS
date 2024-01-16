@@ -635,12 +635,13 @@
     background-color: #063183;
     border-radius: 2rem;
     height: 37rem;
+    position: relative;
 }
 
 .container__banner-bgr--group {
     position: absolute;
-    left: 27.5rem;
-    top: 13.5rem;
+    left: 8rem;
+    top: 9.5rem;
 }
 
 .container__banner-bgr--text span {
