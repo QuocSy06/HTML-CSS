@@ -784,8 +784,7 @@
 /* reponsive */
 @media(max-width: 992px) {
     .header__navbar-list,
-    .header__auth-links,
-    .header__bottom-img {
+    .header__auth-links {
         display: none;
     }
 
